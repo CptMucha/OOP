@@ -16,10 +16,7 @@ class Host
   ~Host()
   {
     cout << jmeno << " byl/a vyhozen." << endl;
-  }
-  
-  
-  
+  } 
 };
 
 
